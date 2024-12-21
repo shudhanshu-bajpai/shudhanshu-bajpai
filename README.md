@@ -5,8 +5,8 @@ I'm a passionate **Full Stack Developer** with a knack for solving complex probl
 
 ### 🛠️ My Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Java
-- **Programming Languages:** C++, JavaScript, Java
+- **Backend:** Node.js, Express.js
+- **Programming Languages:** C++, JavaScript
 - **Tools & Platforms:** Sentry, Plaid, Dwolla
 - **Cloud & Web3 Enthusiast:** Exploring cutting-edge technologies in cloud computing and decentralized platforms
 
@@ -30,8 +30,8 @@ I'm a passionate **Full Stack Developer** with a knack for solving complex probl
 - Reading books and watching documentaries
 
 ### 🌐 Connect with Me
-- **GitHub:** [github.com/ShudhanshuBajpai](#)
-- **LinkedIn:** [linkedin.com/in/ShudhanshuBajpai](#)
+- **GitHub:** [github.com/shudhanshu-bajpai](#)
+- **LinkedIn:** [linkedin.com/in/shudhanshu-bajpai](#)
 
 Let's build something amazing together! 🚀
 
