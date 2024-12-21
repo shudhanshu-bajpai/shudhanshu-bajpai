@@ -31,7 +31,7 @@ I'm a passionate **Full Stack Developer** with a knack for solving complex probl
 
 ### 🌐 Connect with Me
 - **GitHub:** [github.com/shudhanshu-bajpai](#)
-- **LinkedIn:** [linkedin.com/in/shudhanshu-bajpai](#)
+- **LinkedIn:** [www.linkedin.com/in/shudhanshu-bajpai](#)
 
 Let's build something amazing together! 🚀
 
