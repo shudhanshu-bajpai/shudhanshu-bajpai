@@ -1,7 +1,7 @@
 # Hi there, I'm Shudhanshu Bajpai! 👋
 
 ### 🌟 About Me
-I'm a passionate **Full Stack Developer** with a knack for solving complex problems and building scalable, efficient applications. Alongside my expertise in full-stack development, I enjoy programming in **C++**, diving deep into algorithms and data structures to enhance my problem-solving skills.
+I'm a passionate **Full Stack Developer** with a knack for solving complex problems and building scalable, efficient applications .
 
 ### 🛠️ My Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js
