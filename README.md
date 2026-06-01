@@ -30,8 +30,8 @@ I'm a passionate **Full Stack Developer** with a knack for solving complex probl
 - Reading books and watching documentaries
 
 ### 🌐 Connect with Me
-- **GitHub:** [github.com/shudhanshu-bajpai](#)
-- **LinkedIn:** [www.linkedin.com/in/shudhanshu-bajpai](#)
+- **GitHub:** [github.com/shudhanshu-bajpai](https://github.com/shudhanshu-bajpai)
+- **LinkedIn:** [www.linkedin.com/in/shudhanshu-bajpai](https://www.linkedin.com/in/shudhanshu-bajpai)
 
 Let's build something amazing together! 🚀
 
